@@ -36,8 +36,8 @@ int main() {
     printf("O nome da sua cidade é %s\n", nomedacidade);
 
     printf("Coloque a população que que tem na sua carta: ");
-    scanf("%i", &populacao);
-    printf("A população da sua carta é %i Habitantes\n", populacao);
+    scanf("%d", &populacao);
+    printf("A população da sua carta é %d Habitantes\n", populacao);
 
     printf("Coloque a área em Km² que tem na sua carta: ");
     scanf("%f", &areaemkm);
