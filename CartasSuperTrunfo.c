@@ -15,6 +15,7 @@ int main() {
     char nomedacidade [30];
     float areaemkm, populacao, PIB;
     float densidadepopulacional, PIBPerCapita;
+    float superpoder;
     int numerodepontosturisticos;
     
 
